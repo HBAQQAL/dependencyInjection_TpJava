@@ -1,4 +1,4 @@
-# Projet Scolaire
+# Activité Pratique - Inversion de contrôle et Injection des dépendances
 
 Ce projet implique la création d'interfaces et leurs implémentations, et la réalisation de l'injection de dépendances en utilisant différentes méthodes.
 
